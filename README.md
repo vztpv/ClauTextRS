@@ -1,2 +1,2 @@
 # ClauTextRS
-ToDo - Rust version of ClauText : not yet ...
+ToDo - Rust version of ClauText
